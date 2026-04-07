@@ -1,1 +1,1 @@
-# IMG-Assignmnet-1
+# IMG-Assignment-1
